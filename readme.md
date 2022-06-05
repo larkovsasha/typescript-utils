@@ -1,0 +1,1 @@
+own implementation of typescript utilities
